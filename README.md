@@ -1,6 +1,4 @@
-# Olly
-
-<img align="center"  width="900" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEweTJ6ZHRhYnBveGtzdGIzcm5xbDM5aXg0Znp1cGtxN2p1MnRqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11fucLQCTOdvBS/giphy.gif" />
+<img align="center"  width="900" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0NTY5aGpuajVyMzR4ZmVzbDNrbDNqYWNsNHExc3R1dGRhbWRkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkCgDZHywXa6Y/giphy.gif" />
 <br/>
 
 <h3 align="center">Skills / Tools</h3>
