@@ -1,6 +1,14 @@
 <img align="center"  width="900" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0NTY5aGpuajVyMzR4ZmVzbDNrbDNqYWNsNHExc3R1dGRhbWRkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkCgDZHywXa6Y/giphy.gif" />
 <br/>
 
+<h1 align="center"> 👋<strong>Hi, I’m Olga Kapshai</strong> </h1>
+
+🎨 **Software Developer |** Passionate about creative problem-solving & smart systems.  
+🎓 **Student at 42 Paris |** Looking for an **internship in fullstack or software development** starting **September 2025**  
+📍 Based in Paris | Open to remote
+
+
+
 <h3 align="center">Skills / Tools</h3>
 
 <div align="center">
