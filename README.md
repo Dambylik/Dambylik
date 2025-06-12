@@ -3,49 +3,42 @@
 
 <h1 align="center"> 👋<strong>Hi, I’m Olga Kapshai</strong> </h1>
 
-🎨 **Software Developer |** Passionate about creative problem-solving & smart systems.  
-🎓 **Student at 42 Paris |** Looking for an **internship in fullstack or software development** starting **September 2025**  
-📍 Based in Paris | Open to remote
+# 👩‍💻 Software Engineering Student @ 42 Paris | Ex-International Project Manager
 
+Bienvenue sur mon espace GitHub !  
+Je me reconvertis dans le développement logiciel après 8+ ans en gestion de projets internationaux dans des secteurs exigeants (biotech, cosmétique, luxe).
 
+🎯 Aujourd’hui, je me forme à 42 Paris pour développer des produits numériques à fort impact, en alliant :
+- 🧠 Esprit analytique & rigueur métier
+- 💻 Compétences tech fullstack
+- 🌍 Sens du client B2B et de l’expérience utilisateur
 
-<h3 align="center">Skills / Tools</h3>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+## 🧩 Ce qui me distingue
 
-<h3 align="center">Social Network</h3>
+- 🔀 **Profil hybride tech / métier** : capable de faire le pont entre besoins utilisateurs et solutions logicielles
+- 📚 **Sens de la pédagogie** : j’adore documenter, expliquer, former
+- 🤝 **Esprit produit & coordination** : habituée aux projets complexes, multi-acteurs et multi-pays
+
+---
+
+## 🛠️ Compétences techniques
+
+- **Langages :** TypeScript, SQL, Python, Node.js, C++, C
+- **Outils :** Git, Docker, Azure DevOps, Jira, Postman
+- **Méthodes :** TDD, rédaction de guides utilisateurs, specs techniques & fonctionnelles
+
+---
+
+## 💬 Parlons peu, parlons impact
+
+> “Je ne code pas pour coder. Je code pour résoudre.”  
+> Mon moteur, c’est de rendre la technologie accessible, utile et fiable pour les vrais utilisateurs.
+
+---
+
+📫 **Contactez-moi :**  
 
 <div align="center">
   <a href="olgakapshai@protonmail.com" target="_blank">
