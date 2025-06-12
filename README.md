@@ -39,15 +39,8 @@ Je me reconvertis dans le développement logiciel après 8+ ans en gestion de pr
 ---
 
 📫 **Contactez-moi :**  
-
-<div align="center">
-  <a href="olgakapshai@protonmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/olga-kapshai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+LinkedIn → [linkedin.com/in/ton-profil](https://linkedin.com/in/olga-kapshai)  
+Email → olgakapshai@protonmail.com  
 
 ###
 
