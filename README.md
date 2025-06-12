@@ -39,7 +39,7 @@ Je me reconvertis dans le développement logiciel après 8+ ans en gestion de pr
 ---
 
 📫 **Contactez-moi :**  
-LinkedIn → [linkedin.com/in/ton-profil](https://linkedin.com/in/olga-kapshai)  
+LinkedIn → [linkedin.com/in/olga-kapshai](https://linkedin.com/in/olga-kapshai)  
 Email → olgakapshai@protonmail.com  
 
 ###
