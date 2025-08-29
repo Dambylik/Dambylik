@@ -53,9 +53,12 @@ Email → olgakapshai@protonmail.com
 </p>
 
 <p align='right'><b>Github Profile Views</b></p>
+<p align='right'>
+<img src="https://komarev.com/ghpvc/?username=Dambylik&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/Dambylik/count.svg" alt="Visitor Count">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg)
 
 <!---
 https://giphy.com/
