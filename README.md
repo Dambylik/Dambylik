@@ -42,18 +42,6 @@ Je me reconvertis dans le développement logiciel après 8+ ans en gestion de pr
 LinkedIn → [linkedin.com/in/olga-kapshai](https://linkedin.com/in/olga-kapshai)  
 Email → olgakapshai@protonmail.com  
 
-###
-
-<p align='center'><b>Most Used Languages</b></p>
-
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
-</a>
-</p>
-
-<p align='right'><b></b></p>
-
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/Dambylik/count.svg" alt="">
 
