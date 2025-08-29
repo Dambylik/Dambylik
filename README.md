@@ -52,11 +52,12 @@ Email → olgakapshai@protonmail.com
 </a>
 </p>
 
-<p align='right'><b>Github Profile Views</b></p>
+<p align='right'><b></b></p>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/Dambylik/count.svg" alt="
-                                                                                                                                                        t">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/Dambylik/count.svg" alt="">
+
+
 <!---
 https://giphy.com/
 https://readme-typing-svg.herokuapp.com/demo/
