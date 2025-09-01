@@ -45,15 +45,16 @@ Email → olgakapshai@protonmail.com
 ## 📊 Stats
 
 <!-- Stats endpoint config
-username : name of github profile to target
-langs_count : allow to choose how many languages to display (1 to 20 include)
+username : Dambylik
+langs_count : 10
 hide: choose languages to exclude (language1, language2, ...)
 size_weight and count_weight are use to calculate the percentage
 More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
 -->
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase\&layout=compact&langs_count=10&hide=Vim%20script\&bg_color=45,9250FD,D277E6&title_color=fff&text_color=fff&custom_title=Most%20Used%20Languages%20(Public)\&card_width=350\&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=FFFF00,FFA500,FF69B4&title_color=000000&text_color=333333&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5
+)
 
 </div>
 
