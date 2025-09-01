@@ -53,8 +53,7 @@ More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-fil
 -->
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=FFFF00,FFA500,FF69B4&title_color=000000&text_color=333333&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=9250FD,5C5CFF,D277E6&title_color=FFFFFF&text_color=FFFFFF&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5)
 
 </div>
 
@@ -66,7 +65,7 @@ More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-fil
 
 ## Random Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=9250FD&textColor=FFFFFF)
 
 <!-- Sources:
 How to do README: https://www.sitepoint.com/github-profile-readme/
