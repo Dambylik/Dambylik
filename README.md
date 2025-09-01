@@ -42,6 +42,44 @@ Je me reconvertis dans le développement logiciel après 8+ ans en gestion de pr
 LinkedIn → [linkedin.com/in/olga-kapshai](https://linkedin.com/in/olga-kapshai)  
 Email → olgakapshai@protonmail.com  
 
+## 📊 Stats
+
+<!-- Stats endpoint config
+username : name of github profile to target
+langs_count : allow to choose how many languages to display (1 to 20 include)
+hide: choose languages to exclude (language1, language2, ...)
+size_weight and count_weight are use to calculate the percentage
+More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
+-->
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase\&layout=compact&langs_count=10&hide=Vim%20script\&bg_color=45,9250FD,D277E6&title_color=fff&text_color=fff&custom_title=Most%20Used%20Languages%20(Public)\&card_width=350\&size_weight=0.5&count_weight=0.5)
+
+</div>
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
+-->
+
+---
+
+## Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+<!-- Sources:
+How to do README: https://www.sitepoint.com/github-profile-readme/
+SVG - Animate Header: https://github.com/brunotacca/brunotacca/tree/main
+Badges: 
+Icons: 
+  - https://github.com/devicons/devicon/
+  - https://skillicons.dev/
+Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
+Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+Stats Demo site: https://streak-stats.demolab.com/demo/
+Langs Stats: https://github.com/anuraghazra/github-readme-stats
+-->
+
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Down+the+rabbit+hole...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/Dambylik/count.svg" alt="">
 
@@ -52,10 +90,5 @@ https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 https://github.com/kittinan/spotify-github-profile
 https://github.com/anuraghazra/github-readme-stats
 
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Dambylik&show_icons=true&theme=dark&hide=issues" alt="GitHub stats" />
-</a>
-</p>
 
 --->
