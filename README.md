@@ -44,28 +44,17 @@ Email → olgakapshai@protonmail.com
 
 ## 📊 Stats
 
-<!-- Stats endpoint config
-username : Dambylik
-langs_count : 10
-hide: choose languages to exclude (language1, language2, ...)
-size_weight and count_weight are use to calculate the percentage
-More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
--->
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=9250FD,5C5CFF,D277E6&title_color=FFFFFF&text_color=FFFFFF&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=4B6584,6C5B7B,A593E0&title_color=F5F5F5&text_color=E0E0E0&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5)
 
 </div>
-
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
--->
 
 ---
 
 ## Random Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=9250FD&textColor=FFFFFF)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=4B6584&textColor=E0E0E0)
 
 <!-- Sources:
 How to do README: https://www.sitepoint.com/github-profile-readme/
