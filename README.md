@@ -54,7 +54,7 @@ Email → olgakapshai@protonmail.com
 
 ## Random Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=4B6584&textColor=E0E0E0)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=4B6584&textColor=E0E0E0)
 
 <!-- Sources:
 How to do README: https://www.sitepoint.com/github-profile-readme/
