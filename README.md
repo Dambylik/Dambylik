@@ -34,14 +34,6 @@ Après 8 années riches en gestion de projets internationaux dans des secteurs e
 LinkedIn → [linkedin.com/in/olga-kapshai](https://linkedin.com/in/olga-kapshai)  
 Email → olgakapshai@protonmail.com  
 
-## 📊 Stats
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dambylik&layout=compact&langs_count=10&hide=Vim%20script&bg_color=4B6584,6C5B7B,A593E0&title_color=F5F5F5&text_color=E0E0E0&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&size_weight=0.5&count_weight=0.5)
-
-</div>
-
 ---
 
 <!-- Sources:
