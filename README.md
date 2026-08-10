@@ -3,15 +3,9 @@
 
 <h1 align="center"> 👋<strong>Hi, I’m Olga Kapshai</strong> </h1>
 
-# 👩‍💻 Software Engineering Student @ 42 Paris | Ex-International Project Manager
+# 👩‍💻 Software Engineer | Ex-International Project Manager
 
-Bienvenue sur mon espace GitHub !  
-Je me reconvertis dans le développement logiciel après 8+ ans en gestion de projets internationaux dans des secteurs exigeants (biotech, cosmétique, luxe).
-
-🎯 Aujourd’hui, je me forme à 42 Paris pour développer des produits numériques à fort impact, en alliant :
-- 🧠 Esprit analytique & rigueur métier
-- 💻 Compétences tech fullstack
-- 🌍 Sens du client B2B et de l’expérience utilisateur
+Après 8 années riches en gestion de projets internationaux dans des secteurs exigeants (biotech, cosmétique, luxe), je me consacre aujourd'hui pleinement au développement logiciel.
 
 ---
 
@@ -22,12 +16,10 @@ Je me reconvertis dans le développement logiciel après 8+ ans en gestion de pr
 - 🤝 **Esprit produit & coordination** : habituée aux projets complexes, multi-acteurs et multi-pays
 
 ---
+## 🚀 Focus & Intérêts Actuels
 
-## 🛠️ Compétences techniques
-
-- **Langages :** TypeScript, SQL, Python, Node.js, C++, C
-- **Outils :** Git, Docker, Azure DevOps, Jira, Postman
-- **Méthodes :** TDD, rédaction de guides utilisateurs, specs techniques & fonctionnelles
+- Machine Learning & IA : Expérimentation sur le fine-tuning de modèles, les stratégies de décodage et l'apprentissage par renforcement.
+- Architecture Full-Stack : Conception d'applications robustes, gestion de bases de données et intégration de flux d'authentification.
 
 ---
 
